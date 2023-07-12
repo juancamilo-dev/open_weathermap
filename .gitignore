@@ -1,0 +1,8 @@
+.DS*
+Pipfile
+__py*
+basic_text.py
+*.png
+text.py
+*.jpg
+
